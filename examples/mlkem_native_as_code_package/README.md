@@ -1,5 +1,7 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
+This is what we need to understand and build a server-client application 
+
 # Using mlkem-native as a code package
 
 This directory contains a minimal example for how to use mlkem-native as a code package, without modifications.
